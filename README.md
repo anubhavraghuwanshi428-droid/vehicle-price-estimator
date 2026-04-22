@@ -161,6 +161,30 @@ Use Google Colab for zero-setup execution
 
 ---
 
+## Dependencies
+
+This project requires the following Python libraries. They are listed in the `requirements.txt` file for easy installation.
+
+### Required Packages
+
+| Package | Purpose |
+|---------|---------|
+| `pandas` | Loading and processing the vehicle dataset |
+| `numpy` | Numerical computations |
+| `matplotlib` | Plotting actual vs. predicted prices |
+| `seaborn` | Enhanced statistical visualizations |
+| `scikit-learn` | Machine learning models (Linear Regression, Lasso) and evaluation metrics |
+| `jupyter` | Running the provided `.ipynb` notebook |
+
+### Installation
+
+To install all dependencies at once, run the following command in your terminal (inside the project directory):
+
+```bash
+pip install -r requirements.txt
+
+
+
 ##  Future Enhancements
 
 * Hyperparameter tuning for higher accuracy
