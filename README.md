@@ -139,10 +139,10 @@ More sample scenarios:
 
 ```bash
 # Clone repository
-git clone https://github.com/aryansinghsngr-rgb/Car_Price_Prediction.git
+git clone https://github.com/anubhavraghuwanshi428-droid/vehicle-price-estimator.git
 
 # Navigate
-cd car-price-prediction
+cd vehicle-price-estimator
 
 # Install dependencies
 pip install -r requirements.txt
