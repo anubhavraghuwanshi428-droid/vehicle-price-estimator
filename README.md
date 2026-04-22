@@ -5,12 +5,11 @@
 
 ---
 
-A Vehicle Price Estimator is a supervised machine learning application that predicts the current market value of a used or new vehicle by analyzing its key attributes alongside past sales data. This widely used tool enables fair, data-driven, and instant pricing recommendations for private sellers, dealerships, and insurance providers.
 
 
 ##  Overview
 
-This project builds a **machine learning regression model** to predict used car prices based on historical and technical attributes. It helps users make **data-driven pricing decisions** with high accuracy.
+A Vehicle Price Estimator is a supervised machine learning application that predicts the current market value of a used or new vehicle by analyzing its key attributes alongside past sales data. This widely used tool enables fair, data-driven, and instant pricing recommendations for private sellers, dealerships, and insurance providers. This project builds a **machine learning regression model** to predict used car prices based on historical and technical attributes. It helps users make **data-driven pricing decisions** with high accuracy.
 *Additionally, the model can be extended to different vehicle types and regional markets, making it adaptable for real-world automotive pricing platforms.*  
 *The system is designed to be lightweight, explainable, and easy to retrain with new data.*
 
