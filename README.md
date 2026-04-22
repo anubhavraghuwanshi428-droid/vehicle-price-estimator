@@ -202,7 +202,8 @@ Additional ideas:
 
 ---
 
-##  Key Highlights
+
+## ** Key Highlights**
 
 1. Clean and structured ML pipeline
 2. Strong predictive performance (90%+ accuracy)
