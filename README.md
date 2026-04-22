@@ -37,6 +37,8 @@ This project solves that by creating a **predictive model** that estimates fair 
 | Seller_Type   | Dealer / Individual       |
 | Transmission  | Manual / Automatic        |
 | Owner         | Number of previous owners |
+
+
 *Additional insights from the dataset:*  
 - *Most cars in the dataset are from 2013–2018 with mileage between 20,000–60,000 km*  
 - *Petrol cars dominate, followed by Diesel; CNG is a small fraction*  
@@ -109,11 +111,11 @@ Provides feature importance scores for interpretability
 
 Additional findings:
 
-Kms_Driven has a weaker impact than expected due to nonlinear decay
+-Kms_Driven has a weaker impact than expected due to nonlinear decay
 
-Diesel cars hold value slightly better than petrol in older models
+-Diesel cars hold value slightly better than petrol in older models
 
-Automatic transmission adds ~5–8% to resale price
+-Automatic transmission adds ~5–8% to resale price
 
 ---
 
@@ -125,11 +127,11 @@ Automatic transmission adds ~5–8% to resale price
 
 More sample scenarios:
 
-*3-year-old Diesel Automatic → ₹7.1 – ₹7.8 Lakhs*
+-*3-year-old Diesel Automatic → ₹7.1 – ₹7.8 Lakhs*
 
-*8-year-old CNG Manual → ₹2.2 – ₹2.7 Lakhs*
+-*8-year-old CNG Manual → ₹2.2 – ₹2.7 Lakhs*
 
-*1-year-old Petrol (Dealer, low km) → ₹9.0 – ₹9.9 Lakhs*
+-*1-year-old Petrol (Dealer, low km) → ₹9.0 – ₹9.9 Lakhs*
 
 
 ---
@@ -168,13 +170,10 @@ Use Google Colab for zero-setup execution
 
 Additional ideas:
 
-Build a mobile-friendly web app with user input sliders
-
-Add support for electric vehicle (EV) pricing
-
-Implement an explainable AI dashboard using SHAP values
-
-Automate monthly retraining with fresh scraped data
+-Build a mobile-friendly web app with user input sliders
+-Add support for electric vehicle (EV) pricing
+-Implement an explainable AI dashboard using SHAP values
+-Automate monthly retraining with fresh scraped data
 
 
 ---
@@ -194,5 +193,3 @@ Automate monthly retraining with fresh scraped data
 ##  Author
 
 **Anubhav Raghuwanshi**
-
-**Aryan Singh Sengar**
